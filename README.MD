@@ -1,7 +1,7 @@
 # Data Structure and Algorithm
 
 ## Course Description 
-This repositories contains student activities on Data Structure and Algorithms 
+This repository contains student activities on Data Structure and Algorithms :star:
 
 ## Course Topics
 * Introduction to Data Structure and Algorithms 
@@ -15,4 +15,4 @@ This repositories contains student activities on Data Structure and Algorithms
 * Queue 
 * Tree
 
-Let's Get Started! :star: :octocat:
+Let's Get Started! :octocat:
